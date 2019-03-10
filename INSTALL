@@ -1,0 +1,9 @@
+Building Referencelinecoin
+
+See doc/readme-qt.rst for instructions on building Referencelinecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Referencelinecoin.
+
+See doc/build-*.txt for instructions on building referencelinecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Referencelinecoin.
